@@ -1,6 +1,6 @@
 # FB-BOT
-FB AUTO SHARE , AUTO COMMENT 
-BOT ❤️
+FB AUTO SHARE , AUTO 
+COMMENT BOT ❤️
 <p align="center"><img src="https://gifdb.com/images/high/glitching-hacker-hub-biwszmcveudzaori.gif" width="300"/></p>
     
 # Commands for runing my toolkit
