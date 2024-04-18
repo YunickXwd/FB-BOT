@@ -12,8 +12,7 @@ pkg install python -y && pkg install git -y
 ```
 #### Run
 ```
-git clone --depth 1 https://github.com/RameshXwd/FB-BOT
+git clone --depth 1 https://github.com/ReshamXwd/FB-BOT
 cd FB-BOT
-pip install -r requirements.txt
-python3 FB-BOT.py
+python FB-BOT.py
 ```
